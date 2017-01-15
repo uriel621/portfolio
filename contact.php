@@ -3,7 +3,7 @@
 /**
  * configure here
  */
-$from = ' Contact <www.evergarcia.com>';
+$from = 'Contact <www.evergarcia.com>';
 $sendTo = 'Ever <uriel621@live.com>';
 $subject = 'New message from contact form';
 $fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message');
